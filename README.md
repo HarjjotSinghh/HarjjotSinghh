@@ -2,7 +2,7 @@
 <h3 align="center">An 18 year old developer and programmer from New Delhi, India.</h3>
 
 
-- I’m currently working on [my personal website](https://github.com/HarjjotSinghh/).
+- I’m currently working on [my personal website](https://github.com/HarjjotSinghh/portfolio).
 
 - I have worked on [multiple projects](https://github.com/vxdero?tab=repositories) with Python and Javascript.
 
