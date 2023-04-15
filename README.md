@@ -6,6 +6,8 @@
 
 - I have worked on [multiple projects](https://github.com/vxdero?tab=repositories) with Python and Javascript.
 
+- Check out my previous [GitHub account](https://github.com/vxdero) (it has a couple of repos).
+
 - I am currently learning Java, C++ and Data Structure and Algorithms.
 
 - Most of my projects are open sourced, but I have also worked on some closed source projects.
