@@ -4,9 +4,7 @@
 
 - I’m currently working on [my personal website](https://github.com/HarjjotSinghh/portfolio).
 
-- I have worked on [multiple projects](https://github.com/vxdero?tab=repositories) with Python and Javascript.
-
-- Check out my previous [GitHub account](https://github.com/vxdero) (it has a couple of repos).
+- I have worked on [multiple projects](https://github.com/HarjjotSinghh?tab=repositories) with Python and Javascript.
 
 - I am currently learning Java, C++ and Data Structure and Algorithms.
 
