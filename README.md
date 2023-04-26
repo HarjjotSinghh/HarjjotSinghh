@@ -14,10 +14,10 @@
 
 - I also have freelanced as a Graphic Designer and Visual Editor, check out my [GFX/VFX Portfolio](https://behance.net/vxdro)!
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarjjotSinghh&show_icons=true&locale=en&theme=dark&layout=compact" alt="HarjjotSinghh" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarjjotSinghh&show_icons=true&locale=en&layout=compact&theme=dark" alt="HarjjotSinghh"/>
 
 <!--
