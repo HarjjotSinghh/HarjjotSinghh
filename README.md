@@ -34,6 +34,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarjjotSinghh&show_icons=true&locale=en&layout=compact&theme=dark" alt="HarjjotSinghh"/>
 
+<h2>Other Things 👀</h2>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt=""/>
 <!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vxdero&show_icons=true&locale=en&theme=graywhite&layout=compact" alt="vxdero" />
