@@ -1,6 +1,8 @@
 <h1 align="center">Hey there, I am Harjot!</h1>
 <h2>About Me ✨</h2>
 
+- I’m currently pursuing B. Tech (Computer Science and Engineering) from GGSIPU, Delhi.
+
 - I’m currently working on <b>[my personal website](https://github.com/HarjjotSinghh/portfolio).</b>
 
 - I have worked on <b>[multiple projects](https://github.com/HarjjotSinghh?tab=repositories) with Python and Javascript.</b>
