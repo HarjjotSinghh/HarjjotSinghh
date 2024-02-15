@@ -16,7 +16,7 @@
 <br></br>
 [![An image of @harjjotsinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjjotsinghh)](https://holopin.io/@harjjotsinghh)
 
-<div align="center">
+<div align="left">
   <h2>My Skills ⚙</h2>
 
   <h3>Languages</h3>
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel" />
 
 </div>
-<div align="center">
+<div align="left">
   <h2>My Stats 📊</h2>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" alt=""/>
   <br></br>
@@ -43,10 +43,27 @@
   ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjjotsinghh&theme=transparent)
   
   <div algin="left">
+<table>
+  <tr>
+    <th>
+      Stats
+    </th>
+    <th>
+      Top Languages
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjjotsinghh&theme=transparent" alt="HarjjotSinghh Stats"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harjjotsinghh&theme=transparent" alt="HarjjotSinghh's Top Languaages"/>
+    </td>
+  </tr>
+</table>
+  
 
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjjotsinghh&theme=transparent)
-
-  ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harjjotsinghh&theme=transparent)
+  
   
   </div>
   
