@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/KbdQm3y/linkedin-banner.png"/>  
+  <img src="https://i.ibb.co/QkPY6hd/banner-1.png"/>  
 </div>
 
 - I’m currently pursuing B. Tech (Computer Science and Engineering) from GGSIPU, Delhi.
