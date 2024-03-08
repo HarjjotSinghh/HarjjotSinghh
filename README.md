@@ -6,13 +6,13 @@
 
 - I’m currently working on <b>[my personal website](https://github.com/HarjjotSinghh/Portfolio).</b>
 
-- I have worked on <b>[multiple projects](https://github.com/HarjjotSinghh?tab=repositories) with Python and Javascript.</b>
+- I have worked on <b>[multiple projects](https://github.com/HarjjotSinghh?tab=repositories) using Typescript/Javascript and Python.</b>
 
 - I am currently learning Java, C++ and Data Structure and Algorithms.
 
 - Most of my projects are open sourced, but I have also worked on some closed source projects.
 
-- I also have freelanced as a Graphic Designer and Visual Editor, check out my <b>[GFX/VFX Portfolio](https://behance.net/vxdro)!</b>
+- I also have freelanced as a Graphic Designer and Visual Editor, check out my <b>[GFX/VFX Portfolio](https://behance.net/harjjot)!</b>
 <br></br>
 [![An image of @harjjotsinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjjotsinghh)](https://holopin.io/@harjjotsinghh)
 
