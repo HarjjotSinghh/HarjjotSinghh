@@ -4,7 +4,7 @@
 
 - I’m currently pursuing B. Tech (Computer Science and Engineering) from GGSIPU, Delhi.
 
-- I’m currently working on <b>[my personal website](https://github.com/HarjjotSinghh/Portfolio).</b>
+- I’m currently working on <b>[StudyFliss](https://github.com/HarjjotSinghh/StudyFliss).</b>
 
 - I have worked on <b>[multiple projects](https://github.com/HarjjotSinghh?tab=repositories) using Typescript/Javascript and Python.</b>
 
