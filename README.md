@@ -20,17 +20,17 @@
   <h2>My Skills ⚙</h2>
 
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,java" />
   <h3>Web Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=express,react,nodejs,nextjs,svelte,vite,flask" />
   <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
   <h3>Frontend Technologies</h3>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,bootstrap" />
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,powershell,bash,ae,ps,blender" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,powershell,bash,ae,ps,blender,obsidian,npm,pnpm,bun" />
   <h3>Cloud Services</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel,cloudflare" />
 
 </div>
 <div align="left">
