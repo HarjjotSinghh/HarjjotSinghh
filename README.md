@@ -2,23 +2,22 @@
   <img src="https://i.ibb.co/QkPY6hd/banner-1.png"/>  
 </div>
 
-- I’m currently pursuing B. Tech (Computer Science and Engineering) from GGSIPU, Delhi.
+- I’m pursuing a B. Tech (Computer Science and Engineering) from GGSIPU, Delhi.
 
 - I’m currently working on <b>[StudyFliss](https://github.com/HarjjotSinghh/StudyFliss).</b>
 
 - I have worked on <b>[multiple projects](https://github.com/HarjjotSinghh?tab=repositories) using Typescript/Javascript and Python.</b>
 
-- I am currently learning Java, C++ and Data Structure and Algorithms.
+- I am currently learning Java, C++, and Data Structure and Algorithms.
 
-- Most of my projects are open sourced, but I have also worked on some closed source projects.
+- Most projects I have worked on are open-sourced, but I have also worked on some closed-source projects.
 
 - I also have freelanced as a Graphic Designer and Visual Editor, check out my <b>[GFX/VFX Portfolio](https://behance.net/harjjot)!</b>
 <br></br>
 [![An image of @harjjotsinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjjotsinghh)](https://holopin.io/@harjjotsinghh)
 
-<div align="left">
-  <h2>My Skills ⚙</h2>
-
+<details>
+  <summary>Skills ⚡</summary>
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,java" />
   <h3>Web Frameworks</h3>
@@ -31,10 +30,11 @@
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,powershell,bash,ae,ps,blender,obsidian,npm,pnpm,bun" />
   <h3>Cloud Services</h3>
   <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel,cloudflare" />
-
-</div>
-<div align="left">
-  <h2>My Stats 📊</h2>
+</details>
+<details>
+  <summary>Statistics 📊</summary>
+  <br></br>
+  <div align="left">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" alt=""/>
   <br></br>
   
@@ -57,7 +57,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harjjotsinghh&theme=transparent" alt="HarjjotSinghh Stats"/>
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harjjotsinghh&theme=transparent" alt="HarjjotSinghh's Top Languaages"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harjjotsinghh&theme=transparent" alt="HarjjotSinghh's Top Languages"/>
     </td>
   </tr>
 </table>
@@ -70,3 +70,16 @@
   
   
 </div>
+</details>
+<details>
+  <summary>Other 💻</summary>
+  <h3>Spotify Status 🎵</h3>
+  
+  [![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&cover_image=false&theme=natemoo-re&show_offline=true&background_color=050505&interchange=false&bar_color=945bc2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&redirect=true)
+
+  <h3>Discord Status 🎮</h3>
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/826266498862415902?hideStatus=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/826266498862415902)
+
+</details>
+
