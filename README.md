@@ -75,11 +75,11 @@
   <summary>Other 💻</summary>
   <h3>Spotify Status 🎵</h3>
   
-  [![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&cover_image=false&theme=natemoo-re&show_offline=true&background_color=050505&interchange=false&bar_color=945bc2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&redirect=true)
+  [![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&cover_image=false&theme=natemoo-re&show_offline=true&background_color=050505&interchange=false&bar_color=3e1c6c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&redirect=true)
 
   <h3>Discord Status 🎮</h3>
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/826266498862415902?hideStatus=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/826266498862415902)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/826266498862415902?hideActivity=false&idleMessage=Probably%20doing%20something%20else...&bg=1c0039)](https://discord.com/users/826266498862415902)
 
 </details>
 
