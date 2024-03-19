@@ -21,7 +21,7 @@
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,java" />
   <h3>Web Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=express,react,nodejs,nextjs,svelte,vite,flask" />
+  <img src="https://skillicons.dev/icons?i=express,react,nodejs,nextjs,svelte,vite,flask,astro" />
   <h3>Databases</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
   <h3>Frontend Technologies</h3>
