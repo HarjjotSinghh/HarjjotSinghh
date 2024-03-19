@@ -33,7 +33,7 @@
 </details>
 <details>
   <summary>Statistics 📊</summary>
-  <br></br>
+  <br>
   <div align="left">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" alt=""/>
   <br></br>
