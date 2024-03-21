@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/QkPY6hd/banner-1.png"/>  
+  <img alt="Harjot Singh GitHub Profile Banner" src="https://files.studyfliss.com/linked-banner-default.png"/>  
 </div>
 
 - I’m pursuing a B. Tech (Computer Science and Engineering) from GGSIPU, Delhi.
