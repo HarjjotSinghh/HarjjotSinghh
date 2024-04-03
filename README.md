@@ -73,11 +73,11 @@
 </details>
 <details>
   <summary>Other 💻</summary>
-  <h3>Spotify Status 🎵</h3>
+  <h3>Live Spotify Status 🎵</h3>
   
   [![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&cover_image=false&theme=natemoo-re&show_offline=true&background_color=e84545&interchange=false&bar_color=e84545&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&redirect=true)
 
-  <h3>Discord Status 🎮</h3>
+  <h3>Live Discord Status 🎮</h3>
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/826266498862415902?hideActivity=false&idleMessage=Probably%20not%20online...&bg=transparent)](https://discord.com/users/826266498862415902)
 
