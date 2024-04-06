@@ -4,7 +4,7 @@
 
 - I’m pursuing a B. Tech (Computer Science and Engineering) from GGSIPU, Delhi.
 
-- I’m currently working on <b>[StudyFliss](https://github.com/HarjjotSinghh/StudyFliss).</b>
+- I’m currently working on <b>[Chatterbox](https://github.com/HarjjotSinghh/Chatterbox).</b>
 
 - I have worked on <b>[multiple projects](https://github.com/HarjjotSinghh?tab=repositories) using Typescript/Javascript and Python.</b>
 
