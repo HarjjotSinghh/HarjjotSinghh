@@ -13,8 +13,8 @@
 - Most projects I have worked on are open-sourced, but I have also worked on some closed-source projects.
 
 - I also have freelanced as a Graphic Designer and Visual Editor, check out my <b>[GFX/VFX Portfolio](https://behance.net/harjjot)!</b>
-<br></br>
-[![An image of @harjjotsinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjjotsinghh)](https://holopin.io/@harjjotsinghh)
+  <br></br>
+  [![An image of @harjjotsinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjjotsinghh)](https://holopin.io/@harjjotsinghh)
 
 <details>
   <summary>Skills ⚡</summary>
@@ -38,18 +38,17 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt=""/>
   <br></br>
 
-  <img src="https://myreadme.vercel.app/api/embed/HarjjotSinghh?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://myreadme.vercel.app/api/embed/HarjjotSinghh?panels=userwelcome,userstatistics,toprepositories,toplanguages,commitgraph" alt="Harjot Singh's Github Stats" />
   <br></br>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=harjjotsinghh&theme=github-dark-blue&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D&card_width=500)](https://github.com/HarjjotSinghh)
 
-  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjjotsinghh&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarjjotSinghh&theme=transparent&hide_border=true)
 
+  <br/>
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjjotsinghh&theme=transparent)
 
 <img src="https://github-profile-trophy.vercel.app/?username=harjjotsinghh&theme=discord&no-bg=true&margin-w=15&margin-h=15&column=5" />
 <br></br>
-
-  
   <div algin="left">
 <table>
   <tr>
@@ -69,7 +68,7 @@
     </td>
   </tr>
 </table>
-<br></br>
+
 <table>
   <tr>
     <th>
@@ -93,8 +92,6 @@
   </tr>
 </table>
 
-  
-  
   </div>
   
   
@@ -109,7 +106,6 @@
 
   <h3>Live Discord Status 🎮</h3>
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/826266498862415902?hideActivity=false&idleMessage=Probably%20not%20online...&bg=transparent)](https://discord.com/users/826266498862415902)
+[![Discord Presence](https://lanyard.cnrad.dev/api/826266498862415902?hideActivity=false&idleMessage=Probably%20not%20online...&bg=transparent)](https://discord.com/users/826266498862415902)
 
 </details>
-
