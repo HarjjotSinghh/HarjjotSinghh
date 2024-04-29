@@ -35,12 +35,20 @@
   <summary>Statistics 📊</summary>
   <br>
   <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt=""/>
+  <br></br>
+
+  <img src="https://myreadme.vercel.app/api/embed/HarjjotSinghh?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   <br></br>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=harjjotsinghh&theme=github-dark-blue&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D&card_width=500)](https://github.com/HarjjotSinghh)
 
   ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjjotsinghh&theme=transparent)
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=harjjotsinghh&theme=discord&no-bg=true&margin-w=15&margin-h=15&column=5" />
+<br></br>
+
   
   <div algin="left">
 <table>
@@ -61,7 +69,29 @@
     </td>
   </tr>
 </table>
-  
+<br></br>
+<table>
+  <tr>
+    <th>
+      Leetcode
+    </th>
+    <th>
+      StackOverflow
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/HarjjotSinghh">
+        <img src="https://leetcode-stats-six.vercel.app/api?username=HarjjotSinghh&theme=dark"  alt="Harjot's Leetcode statistics"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/13697231/harjot">
+        <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/13697231?theme=dark" alt="Harjot's StackOverflow profile">
+      </a>
+    </td>
+  </tr>
+</table>
 
   
   
