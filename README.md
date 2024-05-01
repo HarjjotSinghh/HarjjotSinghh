@@ -2,7 +2,7 @@
   <img alt="Harjot Singh GitHub Profile Banner" src="https://files.studyfliss.com/linked-banner-default.png"/>  
 </div>
 
-- I’m pursuing a B. Tech (Computer Science and Engineering) from GGSIPU, Delhi.
+- I’m pursuing a B. Tech (Computer Science and Engineering) from GTBIT, New Delhi.
 
 - I’m currently working on <b>[Chatterbox](https://github.com/HarjjotSinghh/chatterbox-agora).</b>
 
