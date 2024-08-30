@@ -4,7 +4,7 @@
 
 - I’m pursuing a B. Tech (Computer Science and Engineering) from GTBIT, New Delhi.
 
-- I’m currently working on <b>[Chatterbox](https://github.com/HarjjotSinghh/chatterbox-agora).</b>
+- I’m currently working on <b>[Avocodos](https://github.com/HarjjotSinghh/avocodos-web).</b>
 
 - I have worked on <b>[multiple projects](https://github.com/HarjjotSinghh?tab=repositories) using Typescript/Javascript and Python.</b>
 
