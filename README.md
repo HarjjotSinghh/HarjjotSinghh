@@ -36,9 +36,7 @@
   <br>
   <div align="left">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt=""/>
-  <br></br>
 
-  <img src="https://myreadme.vercel.app/api/embed/HarjjotSinghh?panels=userwelcome,userstatistics,toprepositories,toplanguages,commitgraph" alt="Harjot Singh's Github Stats" />
   <br></br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarjjotSinghh&theme=transparent&hide_border=true)
@@ -46,6 +44,13 @@
   <br/>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjjotsinghh&theme=transparent)
+
+<br/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=HarjjotSinghh&animated=false&theme=github-dark" alt="LeetCode Badges"/>
+
+<br/>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=harjjotsinghh&theme=discord&no-bg=true&margin-w=15&margin-h=15&column=5" />
 <br></br>
@@ -69,6 +74,7 @@
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th>
@@ -81,7 +87,7 @@
   <tr>
     <td>
       <a href="https://leetcode.com/HarjjotSinghh">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=HarjjotSinghh&theme=dark"  alt="Harjot's Leetcode statistics"/>
+        <img src="https://leetcode-stats.vercel.app/api?username=HarjjotSinghh&theme=Dark" alt="Harjot's LeetCode Stats"/>
       </a>
     </td>
     <td>
@@ -102,7 +108,7 @@
   <summary>Other 💻</summary>
   <h3>Live Spotify Status 🎵</h3>
   
-  [![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&cover_image=false&theme=natemoo-re&show_offline=true&background_color=e84545&interchange=false&bar_color=e84545&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=zedqhg6c2vs6jlxibkpy981wz&redirect=true)
 
   <h3>Live Discord Status 🎮</h3>
 
