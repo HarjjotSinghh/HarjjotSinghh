@@ -39,8 +39,8 @@
 
   <br></br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarjjotSinghh&theme=transparent&hide_border=true)
-
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=HarjjotSinghh&theme=transparent&hide_border=true)
+  
   <br/>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harjjotsinghh&theme=transparent)
