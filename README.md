@@ -2,9 +2,9 @@
   <img alt="Harjot Singh GitHub Profile Banner" src="https://files.studyfliss.com/linked-banner-default.png"/>  
 </div>
 
-- I’m pursuing a B. Tech (Computer Science and Engineering) from GTBIT, New Delhi.
+- I’m currently in 3rd year, pursuing Bachelors of Technology in Computer Science and Engineering from GGSIPU, New Delhi.
 
-- I’m currently working on <b>[Avocodos](https://github.com/Avocodos/avocodos).</b>
+- I’m currently working on <b>[Avocodos](https://github.com/Avocodos/avocodos)</b>, <b>[Zyflo](https://github.com/HarjjotSinghh/Zyflo)</b> and <b>[Fetchpix](https://github.com/HarjjotSinghh/fetchpix)</b>.
 
 - I have worked on <b>[multiple projects](https://github.com/HarjjotSinghh?tab=repositories) using Typescript/Javascript and Python.</b>
 
