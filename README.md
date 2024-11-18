@@ -13,8 +13,6 @@
 - Most projects I have worked on are open-sourced, but I have also worked on some closed-source projects.
 
 - I also have freelanced as a Graphic Designer and Visual Editor, check out my <b>[GFX/VFX Portfolio](https://behance.net/harjjot)!</b>
-  <br></br>
-  [![An image of @harjjotsinghh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harjjotsinghh)](https://holopin.io/@harjjotsinghh)
 
 <details>
   <summary>Skills ⚡</summary>
