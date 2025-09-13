@@ -10,7 +10,7 @@ flowchart LR
     direction LR
     subgraph 1[" "]
         direction TB
-        top1[Find Harjot's Profile] --> bottom1[Hire Connor 🤝]
+        top1[Find Harjot's Profile] --> bottom1[Hire Harjot 🤝]
     end
     subgraph 2[" "]
         direction TB
