@@ -22,7 +22,7 @@ flowchart LR
     3[Discover Problem 🐛] --> 2
     1 --> outside1["Profit" 📈]
     2 --> outside2["Cry" 😢]
-    click top1 "https://www.linkedin.com/in/HarjjotSinghh" "LinkedIn"
+    click top1 "https://www.harjotrana.com" "Harjot's Profile"
     style 1 stroke:#884def,stroke-width:5px
     style 2 stroke:#884def,stroke-width:5px
 ```
