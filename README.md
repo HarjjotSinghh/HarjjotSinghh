@@ -1,4 +1,4 @@
-### Hey there, I'm Harjot Singh Rana 👋🏼
+### Hey there, I'm Harjot Rana 👋🏼
 
 - 🧑🏽‍💻 A software enthusiast who loves building scalable applications
 - 🧱 Currently building and working towards [AgentBlocks](https://www.orchastra.org) actively
