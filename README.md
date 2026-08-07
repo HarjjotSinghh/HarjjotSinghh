@@ -6,3 +6,9 @@
 - 💻 Worked on and contributed to 95+ [open-source projects](https://github.com/HarjjotSinghh?tab=repositories)  
 - 🔗 Still have any questions? Know more [about me](https://www.harjotrana.com)
 - 💬 Got a project idea? Feel free to [contact me](https://socials.harjotrana.com)
+
+### Work with me
+
+- 💼 Have an idea, a Figma, or a half-built product?
+  - [Start a project](https://www.harjotrana.com/hire)
+  - [Book a conversation](https://cal.com/harjot)
