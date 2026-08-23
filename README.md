@@ -1,17 +1,17 @@
-### Hey there, I'm Harjot Rana 👋🏼
+### Hey there, I'm Harjot Singh Rana 👋🏼
 
-- Full-stack and AI product engineer, open to full-time roles
-- Building [reinstate](https://github.com/HarjjotSinghh/reinstate), a Go CLI for resuming AI coding sessions anywhere
-- Founding engineer at [Moonshift](https://moonshift.io), took pipeline success from 46% to 77%
-- Built SignVault.io's API, permissions engine, and Stripe billing
-- Created [Zyflo](https://zyflo.vercel.app), a React UI library showcased at GitHub Universe 2025
-- $10K Avalanche grant · Top 120 of 20,000 at [OpenCode Buildathon](https://growthx.club/events/indias-first-opencode-buildathon-jtuus) · [770+ LeetCode](https://leetcode.com/u/HarjjotSinghh)
-- [Portfolio](https://www.harjotrana.com) · [Projects](https://www.harjotrana.com/projects) · [Writing](https://www.harjotrana.com/blog) · [Résumé](https://www.harjotrana.com/resume.pdf)
+- Full-stack and AI engineer in New Delhi, open to **contract and full-time roles** (remote)
+- Founding engineer at [Moonshift](https://moonshift.io): took pipeline success 46.2% → 76.7%, 1,200+ users
+- Built SignVault.io's REST API, ABAC permissions engine, and Stripe billing
+- Created [Reinstate](https://reinstate.dev), a Go CLI for encrypted cross-machine AI coding-session continuity
+- Shipped Orchastra, DevSynq, Weavestore, and [Zyflo](https://zyflo.vercel.app) (GitHub Universe 2025)
+- $10K Avalanche grant · Top 120 of 20,000 at OpenCode Buildathon · 770+ LeetCode
+- [Portfolio](https://www.harjotrana.com) · [Hire](https://www.harjotrana.com/hire) · [Writing](https://www.harjotrana.com/blog) · [Résumé](https://www.harjotrana.com/resume.pdf)
 
 #### Work with me
 
-- Hiring? [Book a call](https://cal.com/harjot) · [Résumé](https://www.harjotrana.com/resume.pdf) · [Email](mailto:me@harjotrana.com)
-- Have an idea, Figma, or half-built product? [Start a project](https://www.harjotrana.com/hire)
+- Hiring (contract or full-time)? [Email](mailto:me@harjotrana.com) · [Book a call](https://cal.com/harjot) · [Hire page](https://www.harjotrana.com/hire)
+- Idea, Figma, or half-built product? Start on [harjotrana.com/hire](https://www.harjotrana.com/hire)
 
 #### Find me
 
