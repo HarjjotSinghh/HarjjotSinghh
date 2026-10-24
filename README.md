@@ -1,4 +1,4 @@
-### Hey there, I'm Harjot Rana 👋🏼
+### Hey there, I'm Harjot 👋🏼
 
 - Full-stack and AI engineer, based in New Delhi, India
 - Currently e-commerce full-stack developer at [Whiskey Library](https://whiskeylibrary.com)
